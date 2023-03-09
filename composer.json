@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "SwiftCore\\Framework\\Json": "src/"
+            "SwiftCore\\Framework\\Json\\": "src/"
         }
     },
     "authors": [
