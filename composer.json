@@ -1,0 +1,18 @@
+{
+    "name": "swiftcore/json",
+    "description": "Json Manager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SwiftCore\\Framework\\Json": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grigory Sychev",
+            "email": "grisha_sychev@vk.com"
+        }
+    ],
+    "require": {}
+}
